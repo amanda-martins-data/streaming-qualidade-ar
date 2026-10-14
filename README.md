@@ -1,5 +1,7 @@
 # Arquitetura Orientada a Eventos (Streaming)
 
+[![CI](https://github.com/amanda-martins-data/streaming-qualidade-ar/actions/workflows/ci.yml/badge.svg)](https://github.com/amanda-martins-data/streaming-qualidade-ar/actions/workflows/ci.yml)
+
 Prova de conceito real e testada de uma arquitetura de streaming para
 qualidade do ar - schema registry com compatibilidade backward/
 forward verificada, event bus com particionamento e entrega
