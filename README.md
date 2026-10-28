@@ -9,9 +9,8 @@ at-least-once, e um modelo de latencia comparando batch (Projeto 04
 real) contra streaming, usando o mesmo volume real ja usado no
 [Projeto 10](https://github.com/amanda-martins-data/capacity-planning-qualidade-ar).
 
-Projeto 12 de uma serie documentando minha transicao de Analista de
-Dados para Arquitetura de Dados - veja o [perfil
-completo](https://github.com/amanda-martins-data).
+Projeto 12 do meu portfolio de Engenharia e Arquitetura de Dados - veja o
+[perfil completo](https://github.com/amanda-martins-data).
 
 ## Por que este projeto
 
